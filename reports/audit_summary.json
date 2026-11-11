@@ -1,0 +1,30 @@
+{
+  "audited_on": "2026-11-11",
+  "total_components": 20,
+  "blocked": [
+    "git-core",
+    "metrics-dashboard",
+    "qt-ui",
+    "doc-store",
+    "iac-cli",
+    "legacy-codec",
+    "cache-store"
+  ],
+  "review": [
+    "xml-parser",
+    "pdf-render"
+  ],
+  "approved": [
+    "react-ui",
+    "node-runtime",
+    "django-web",
+    "infra-provider",
+    "python-runtime",
+    "glob-utils",
+    "jetty-server",
+    "kafka-bus",
+    "auth-sdk",
+    "image-codec",
+    "analytics-etl"
+  ]
+}
