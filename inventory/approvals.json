@@ -1,0 +1,65 @@
+{
+  "generated_for": "quarterly-license-audit",
+  "approvals": [
+    {
+      "approval_id": "APR-1001",
+      "component_name": "auth-sdk",
+      "license": "Proprietary vendor license",
+      "status": "approved",
+      "approved_by": "Legal OSPO",
+      "decided_on": "2026-04-02",
+      "expires_on": "2027-03-31",
+      "notes": "Negotiated redistribution terms in the vendor master agreement."
+    },
+    {
+      "approval_id": "APR-1002",
+      "component_name": "pdf-render",
+      "license": "LGPL-2.1",
+      "status": "approved",
+      "approved_by": "Legal OSPO",
+      "decided_on": "2025-06-30",
+      "expires_on": "2026-06-30",
+      "notes": "Renewal was never requested; treat as expired for the current audit."
+    },
+    {
+      "approval_id": "APR-1003",
+      "component_name": "xml-parser",
+      "license": "GPL-3.0",
+      "status": "approved",
+      "approved_by": "Legal OSPO",
+      "decided_on": "2024-12-31",
+      "expires_on": "2025-12-31",
+      "notes": "Internal-tool exception that lapsed at the end of last year."
+    },
+    {
+      "approval_id": "APR-1004",
+      "component_name": "metrics-dashboard",
+      "license": "AGPL-3.0",
+      "status": "approved",
+      "approved_by": "Legal OSPO",
+      "decided_on": "2026-01-05",
+      "expires_on": "2028-01-01",
+      "notes": "Approval exists, but prohibited licenses can never be waived."
+    },
+    {
+      "approval_id": "APR-1005",
+      "component_name": "doc-store",
+      "license": "SSPL-1.0",
+      "status": "pending",
+      "approved_by": "Legal OSPO",
+      "decided_on": "2026-09-01",
+      "expires_on": "2027-12-31",
+      "notes": "Request submitted; legal review still open."
+    },
+    {
+      "approval_id": "APR-1006",
+      "component_name": "glob-utils",
+      "license": "ISC",
+      "status": "approved",
+      "approved_by": "Legal OSPO",
+      "decided_on": "2026-02-11",
+      "expires_on": "2026-12-31",
+      "notes": "Routine approved-license renewal."
+    }
+  ]
+}

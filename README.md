@@ -1,2 +1,9 @@
-# youtube-transcript_filesystem_fetch_github_3456-oss-audit-a7f3c9
-Third-party license compliance audit workspace
+# Third-Party License Audit
+
+Audit workspace for the quarterly open-source license review.
+
+- `policy/license_policy.md` - company policy and verdict matrix
+- `inventory/dependencies.csv` - components in scope
+- `inventory/approvals.json` - existing legal approvals
+- `reference_licenses/` - published license evidence for flagged components
+- `reports/` - audit output committed back by the auditor

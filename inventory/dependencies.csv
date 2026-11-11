@@ -1,0 +1,21 @@
+component_id,component_name,version,declared_license,license_reference_url,verification_required,used_in_product,distribution_type,owner,last_reviewed
+COMP-001,react-ui,18.2.0,MIT,,false,Customer Portal,saas,team-frontend,2026-03-12
+COMP-002,node-runtime,20.11.0,MIT,,false,Enterprise Gateway,on-prem-binary,team-platform,2026-02-08
+COMP-003,django-web,4.2.9,BSD-3-Clause,,false,Billing Service,saas,team-billing,2026-04-02
+COMP-004,git-core,2.43.0,GPL-2.0,,false,Build Pipeline,saas,team-devops,2026-01-19
+COMP-005,metrics-dashboard,10.3.1,AGPL-3.0,,false,Observability Suite,saas,team-ops,2026-05-01
+COMP-006,qt-ui,6.6.0,LGPL-3.0,,false,Desktop Client,on-prem-binary,team-desktop,2026-02-14
+COMP-007,infra-provider,5.0.0,MPL-2.0,,false,Cloud Provisioning,saas,team-cloud,2026-06-21
+COMP-008,doc-store,7.0.0,Custom commercial license,https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_3456-oss-audit-a7f3c9/main/reference_licenses/sspl-1.0.txt,true,Document Search,saas,team-data,2026-01-08
+COMP-009,iac-cli,1.6.0,HashiCorp terms,https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_3456-oss-audit-a7f3c9/main/reference_licenses/busl-1.1.txt,true,Ops Automation,internal-tool,team-devops,2026-01-27
+COMP-010,python-runtime,3.12.0,PSF-2.0,,false,Batch Jobs,on-prem-binary,team-platform,2026-03-25
+COMP-011,glob-utils,10.3.10,ISC,,false,Asset Loader,saas,team-frontend,2026-05-11
+COMP-012,jetty-server,12.0.5,EPL-2.0,,false,Partner API,saas,team-integrations,2026-06-05
+COMP-013,kafka-bus,3.6.1,Apache-2.0,,false,Event Mesh,on-prem-binary,team-platform,2026-04-18
+COMP-014,legacy-codec,1.4.2,GPL-2.0,https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_3456-oss-audit-a7f3c9/main/reference_licenses/agpl-3.0.txt,true,Media Transcoder,internal-tool,team-media,2026-02-27
+COMP-015,xml-parser,2.9.0,GPL-3.0,,false,Report Generator,internal-tool,team-bi,2026-01-17
+COMP-016,pdf-render,5.1.0,LGPL-2.1,,false,Invoice Renderer,saas,team-billing,2026-06-01
+COMP-017,auth-sdk,3.2.1,Proprietary vendor license,,false,Identity Platform,saas,team-security,2026-05-15
+COMP-018,image-codec,8.4.0,BSD-style,https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_3456-oss-audit-a7f3c9/main/reference_licenses/bsd-3-clause.txt,true,Media Studio,on-prem-binary,team-media,2026-07-07
+COMP-019,cache-store,4.0.3,BUSL-1.1,,false,Session Cache,saas,team-platform,2026-08-20
+COMP-020,analytics-etl,2.5.0,Apache-2.0,,false,Data Warehouse,internal-tool,team-data,2026-09-09
